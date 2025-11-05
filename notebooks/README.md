@@ -1,2 +1,2 @@
-# mab2115_finals
-Final project for MAB2115 (Computing for Analytics)
+# Notebook Folder
+Working notebooks are to be added in this folder. Please separate it by section.
