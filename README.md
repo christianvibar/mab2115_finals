@@ -5,6 +5,9 @@ Final project for MAB2115 (Computing for Analytics)
 
 Use global_findex_for_analysis.csv for analysis. To access the file, use `pd.read_csv('../data/processed/global_findex_for_analysis.csv')`
 
+**Notebooks**
+First draft of notebook: `notebooks/draft_mab2115_finals_compiled.ipynb`
+
 -----
 # 🌍 Global Findex Exploratory Data Analysis  
 ### *Understanding Borrowing, Saving, and Digital Financial Behavior in the ASEAN 5 and Singapore, with a deep dive into financial behavior in the Philippines*
