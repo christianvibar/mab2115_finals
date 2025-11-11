@@ -4,3 +4,79 @@ Final project for MAB2115 (Computing for Analytics)
 **For files**
 
 Use global_findex_for_analysis.csv for analysis. To access the file, use `pd.read_csv('../data/processed/global_findex_for_analysis.csv')`
+
+-----
+# 🌍 Global Findex Exploratory Data Analysis  
+### *Understanding Borrowing, Saving, and Digital Financial Behavior in the ASEAN 5 and Singapore, with a deep dive into financial behavior in the Philippines*
+
+
+---
+
+## 📘 Overview  
+This repository contains an **exploratory data analysis (EDA)** of the **Global Findex Database**, a flagship World Bank survey measuring how adults around the world save, borrow, make payments, and manage risk.  
+
+The project focuses on uncovering patterns and insights on **financial inclusion** through four behavioral dimensions:
+
+1. **Financial Account Ownership**
+2. 💰 **Borrowing** – How do people access credit, and what are the formal vs. informal borrowing trends?  
+3. 🪙 **Saving** – How do individuals save, and for what purposes (e.g. old age)?  
+4. 💳 **Spending** – How are digital financial services (DFS) like mobile money and online payments transforming financial participation?  
+
+
+---
+
+## 🗂️ Dataset  
+**Source:** [World Bank Global Findex Database (2014-2024)](https://microdata.worldbank.org/index.php/catalog/global-findex)  
+
+**Key Features:**
+- 🌏 Over **120,000 respondents** across 120+ economies  
+- 💬 Indicators covering **account ownership, savings, borrowing, and digital finance use**  
+- 🎯 Designed to support research in **financial inclusion and development economics**
+
+| Category | Key Variables | Description |
+|-----------|----------------|-------------|
+| **Digital Channels** | `fiaccount_t_d`, `mobileaccount_t_d` | |
+| **Borrowing** | `fin22a`, `fin22a_1`, `fin22b`, `fin22c` | Source and purpose of loans (formal, informal, family/friends) |
+| **Saving** | `fin17a`, `fin17b`, `fin17c`, `fin17f` | Savings behavior and purpose (old age, emergencies, etc.) |
+| **Spending** | `g20_made`, `fin22g`, `fin26b`, 'anydigpayment` | Use of digital payments, online purchases, and mobile money |
+
+---
+
+## 🧰 Tools and Libraries  
+Developed using the following libraries:
+
+| Category | Libraries |
+|-----------|------------|
+| **Data Wrangling** | `pandas`, `numpy` |
+| **Visualization** | `matplotlib`, `seaborn` |
+| **Documentation & Reporting** | `jupyter`, `markdown` |
+
+---
+
+## 🔍 Key Insights  
+
+
+- **Spending**: Filipinos prefer online payments over traditional banking, marking a decisive shift toward digital-first transactions. This rapid digital payment adoption signals vast untapped potential in the fintech sector, particularly in adjacent services like digital lending and wealth management.
+
+- **Saving**: Mobile wallet savings surged 147% while bank savings collapsed 46%, with digital adoption (+12pts) exceeding bank decline (-9pts). This suggests digital platforms are not only displacing traditional banks but also capturing previously unbanked savers, potentially from informal savings networks.
+
+- **Borrowing**: Despite digital adoption in spending and saving, Filipinos remain heavily reliant on informal borrowing from family and friends. This shows that Filipinos embrace digital platforms for transactions and savings, yet avoid digital lending. Barriers likely include fear of debt traps, lack of credit history recognition, or unfamiliarity with digital loan terms.
+
+Each notebook includes:
+- Data cleaning and preparation  
+- Visual exploration (bar plots, histograms, heatmaps)  
+- Insights and interpretations linked to financial inclusion  
+
+---
+
+## 👩‍💻 Authors
+
+- **Eleanor Geniston**
+- **Angelene Lacar**
+- **Jennifer Lacaza**
+- **Jonas Macasero**
+- **Christian Vibar**
+
+
+Master in Applied Business Analytics (MABA) <br>
+University of Asia and the Pacific 
