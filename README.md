@@ -46,8 +46,7 @@ Developed with **Python 3.11** using the following libraries:
 | Category | Libraries |
 |-----------|------------|
 | **Data Wrangling** | `pandas`, `numpy` |
-| **Visualization** | `matplotlib`, `seaborn`, `plotly` |
-| **Data Processing** | `re`, `itertools` |
+| **Visualization** | `matplotlib`, `seaborn` |
 | **Documentation & Reporting** | `jupyter`, `markdown` |
 
 ---
@@ -72,3 +71,11 @@ Each notebook includes:
 
 ## 👩‍💻 Authors
 
+**Eleanor Geniston**
+**Jennifer Lacaza**
+**Angelene Lacar**
+**Jonas Macasero**
+**Christian Vibar**
+
+Master in Applied Business Analytics (MABA)
+University of Asia and the Pacific 
