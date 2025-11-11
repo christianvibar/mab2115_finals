@@ -1,1 +1,4 @@
 **/.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
