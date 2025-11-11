@@ -7,7 +7,7 @@ Use global_findex_for_analysis.csv for analysis. To access the file, use `pd.rea
 
 -----
 # 🌍 Global Findex Exploratory Data Analysis  
-### *Understanding Borrowing, Saving, and Digital Financial Behavior in the ASEAN-6 and a deep dive into financial behavior in the Philippines*
+### *Understanding Borrowing, Saving, and Digital Financial Behavior in the ASEAN 5 and Singapore, with a deep dive into financial behavior in the Philippines*
 
 
 ---
@@ -15,11 +15,12 @@ Use global_findex_for_analysis.csv for analysis. To access the file, use `pd.rea
 ## 📘 Overview  
 This repository contains an **exploratory data analysis (EDA)** of the **Global Findex Database**, a flagship World Bank survey measuring how adults around the world save, borrow, make payments, and manage risk.  
 
-The project focuses on uncovering patterns and insights on **financial inclusion** through three behavioral dimensions:
+The project focuses on uncovering patterns and insights on **financial inclusion** through four behavioral dimensions:
 
-1. 💰 **Borrowing** – How do people access credit, and what are the formal vs. informal borrowing trends?  
-2. 🪙 **Saving** – How do individuals save, and for what purposes (e.g. old age)?  
-3. 💳 **Spending** – How are digital financial services (DFS) like mobile money and online payments transforming financial participation?  
+1. **Financial Account Ownership**
+2. 💰 **Borrowing** – How do people access credit, and what are the formal vs. informal borrowing trends?  
+3. 🪙 **Saving** – How do individuals save, and for what purposes (e.g. old age)?  
+4. 💳 **Spending** – How are digital financial services (DFS) like mobile money and online payments transforming financial participation?  
 
 
 ---
@@ -34,14 +35,15 @@ The project focuses on uncovering patterns and insights on **financial inclusion
 
 | Category | Key Variables | Description |
 |-----------|----------------|-------------|
-| **Borrowing** | `fin22a`, `fin24a`, `fin28b`, `fin28c` | Source and purpose of loans (formal, informal, family/friends) |
-| **Saving** | `fin17a`, `fin17f`, `fin18a` | Savings behavior and purpose (old age, emergencies, etc.) |
-| **Digital Channels** | `fin2`, `fin5a`, `fin5b` | Use of digital payments, online purchases, and mobile money |
+| **Digital Channels** | `fiaccount_t_d`, `mobileaccount_t_d` | |
+| **Borrowing** | `fin22a`, `fin22a_1`, `fin22b`, `fin22c` | Source and purpose of loans (formal, informal, family/friends) |
+| **Saving** | `fin17a`, `fin17b`, `fin17c`, `fin17f` | Savings behavior and purpose (old age, emergencies, etc.) |
+| **Spending** | `g20_made`, `fin22g`, `fin26b`, 'anydigpayment` | Use of digital payments, online purchases, and mobile money |
 
 ---
 
 ## 🧰 Tools and Libraries  
-Developed with **Python 3.11** using the following libraries:
+Developed using the following libraries:
 
 | Category | Libraries |
 |-----------|------------|
@@ -51,16 +53,14 @@ Developed with **Python 3.11** using the following libraries:
 
 ---
 
-## 🔍 Key Analyses  
+## 🔍 Key Insights  
 
-- **Saving for Old Age by Age Group**  
-  → How do savings motivations change across age demographics?  
 
-- **Borrowing Formality by Education Level**  
-  → Are more educated individuals more likely to borrow from formal institutions?  
+- **Spending**: Filipinos prefer online payments over traditional banking, marking a decisive shift toward digital-first transactions. This rapid digital payment adoption signals vast untapped potential in the fintech sector, particularly in adjacent services like digital lending and wealth management.
 
-- **Use of Digital Payments by Income Quintile**  
-  → Are higher-income individuals more likely to use digital financial channels?  
+- **Saving**: Mobile wallet savings surged 147% while bank savings collapsed 46%, with digital adoption (+12pts) exceeding bank decline (-9pts). This suggests digital platforms are not only displacing traditional banks but also capturing previously unbanked savers, potentially from informal savings networks.
+
+- **Borrowing**: Despite digital adoption in spending and saving, Filipinos remain heavily reliant on informal borrowing from family and friends. This shows that Filipinos embrace digital platforms for transactions and savings, yet avoid digital lending. Barriers likely include fear of debt traps, lack of credit history recognition, or unfamiliarity with digital loan terms.
 
 Each notebook includes:
 - Data cleaning and preparation  
@@ -78,6 +78,5 @@ Each notebook includes:
 - **Christian Vibar**
 
 
-Master in Applied Business Analytics (MABA)
-
+Master in Applied Business Analytics (MABA) <br>
 University of Asia and the Pacific 
