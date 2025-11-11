@@ -72,10 +72,16 @@ Each notebook includes:
 ## 👩‍💻 Authors
 
 **Eleanor Geniston**
+
 **Jennifer Lacaza**
+
 **Angelene Lacar**
+
 **Jonas Macasero**
+
 **Christian Vibar**
 
+
 Master in Applied Business Analytics (MABA)
+
 University of Asia and the Pacific 
