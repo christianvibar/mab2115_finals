@@ -10,6 +10,7 @@ The Philippines is experiencing a dramatic transformation in how its citizens ma
 
 Drawing on a decade of data (2014-2024) from the **World Bank Global Findex Database**, we examine trends in digital payment adoption, the shift from traditional banks to mobile wallets, and the persistent reliance on informal credit networks across the ASEAN-6 region (Philippines, Indonesia, Malaysia, Singapore, Thailand, and Vietnam). By analyzing demographic patterns across income levels, educational attainment, and generational cohorts, this investigation reveals critical gaps in financial inclusion and offers insights into the structural barriers that prevent full digital adoption.
 
+Finally, this report provides evidence-based findings for policymakers, fintech companies, and financial institutions seeking to understand the complexities of Filipino financial behavior and identifies pathways toward more inclusive and effective digital financial services.
 
 ---
 
