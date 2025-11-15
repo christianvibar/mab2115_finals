@@ -67,7 +67,7 @@ Each notebook includes:
 
 ---
 
-## 👩‍💻 Authors
+## 👩‍💻 Researchers
 
 - **Eleanor Geniston**
 - **Angelene Lacar**
