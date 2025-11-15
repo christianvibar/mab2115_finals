@@ -1,11 +1,11 @@
 # Final Project for MAB2115 (Computing for Analytics)
 
 -----
-# 🌍 Global Findex Exploratory Data Analysis  
+# 📜 Analytics Story
 ### *An Investigation Into Financial Inclusion in the Phillipines: Patterns, Gaps, and Opportunities*
 ---
 
-## 📘 Overview  
+## 📌 Overview  
 The Philippines is experiencing a dramatic transformation in how its citizens manage money. This analysis investigates three fundamental dimensions of Filipino financial behavior—**spending, saving, and borrowing**—to understand how Filipinos interact with both traditional and digital financial systems.
 
 Drawing on a decade of data (2014-2024) from the **World Bank Global Findex Database**, we examine trends in digital payment adoption, the shift from traditional banks to mobile wallets, and the persistent reliance on informal credit networks across the ASEAN-6 region (Philippines, Indonesia, Malaysia, Singapore, Thailand, and Vietnam). By analyzing demographic patterns across income levels, educational attainment, and generational cohorts, this investigation reveals critical gaps in financial inclusion and offers insights into the structural barriers that prevent full digital adoption.
