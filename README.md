@@ -1,12 +1,4 @@
-# mab2115_finals
-Final project for MAB2115 (Computing for Analytics)
-
-**For files**
-
-Use global_findex_for_analysis.csv for analysis. To access the file, use `pd.read_csv('../data/processed/global_findex_for_analysis.csv')`
-
-**Notebooks**
-First draft of notebook: `notebooks/draft_mab2115_finals_compiled.ipynb`
+# Final project for MAB2115 (Computing for Analytics)
 
 -----
 # 🌍 Global Findex Exploratory Data Analysis  
@@ -29,7 +21,11 @@ The project focuses on uncovering patterns and insights on **financial inclusion
 ---
 
 ## 🗂️ Dataset  
-**Source:** [World Bank Global Findex Database (2014-2024)](https://microdata.worldbank.org/index.php/catalog/global-findex)  
+**Primary Dataset:** World Bank Global Findex Database (2025 Release): https://www.worldbank.org/en/publication/globalfindex/download-data
+* Raw file:
+  
+**Secondary Dataset:** Global Findex Microdata (2025 Release): https://microdata.worldbank.org/index.php/catalog/7860/study-description
+* Raw file: 
 
 **Key Features:**
 - 🌏 Over **120,000 respondents** across 120+ economies  
