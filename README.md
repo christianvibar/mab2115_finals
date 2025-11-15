@@ -34,7 +34,7 @@ Finally, this report provides evidence-based findings for policymakers, fintech 
 | **Digital Channels** | `fiaccount_t_d`, `mobileaccount_t_d` | |
 | **Borrowing** | `fin22a`, `fin22a_1`, `fin22b`, `fin22c` | Source and purpose of loans (formal, informal, family/friends) |
 | **Saving** | `fin17a`, `fin17b`, `fin17c`, `fin17f` | Savings behavior and purpose (old age, emergencies, etc.) |
-| **Spending** | `g20_made`, `fin22g`, `fin26b`, 'anydigpayment` | Use of digital payments, online purchases, and mobile money |
+| **Spending** | `g20_made`, `fin22g`, `fin26b`, `anydigpayment` | Use of digital payments, online purchases, and mobile money |
 
 ---
 
