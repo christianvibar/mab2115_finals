@@ -3,8 +3,6 @@
 -----
 # 🌍 Global Findex Exploratory Data Analysis  
 ### *Understanding Borrowing, Saving, and Digital Financial Behavior in the ASEAN 5 and Singapore, with a deep dive into financial behavior in the Philippines*
-
-
 ---
 
 ## 📘 Overview  
@@ -16,16 +14,17 @@ The project focuses on uncovering patterns and insights on **financial inclusion
 2. 💰 **Borrowing** – How do people access credit, and what are the formal vs. informal borrowing trends?  
 3. 🪙 **Saving** – How do individuals save, and for what purposes (e.g. old age)?  
 4. 💳 **Spending** – How are digital financial services (DFS) like mobile money and online payments transforming financial participation?  
-
-
 ---
+
+## 📝 Analysis Notebook
+[Please click here](https://github.com/christianvibar/mab2115_finals/blob/e4d17d9b8ad75c4c4c62889dfb211ce1f42447e9/notebooks/final/mab2115_finals_group_3.ipynb)
 
 ## 🗂️ Dataset  
 **Primary Dataset:** World Bank Global Findex Database (2025 Release): https://www.worldbank.org/en/publication/globalfindex/download-data
-* Raw file:
+* [Raw file](https://github.com/christianvibar/mab2115_finals/blob/e4d17d9b8ad75c4c4c62889dfb211ce1f42447e9/data/raw/GlobalFindexDatabase2025.csv)
   
 **Secondary Dataset:** Global Findex Microdata (2025 Release): https://microdata.worldbank.org/index.php/catalog/7860/study-description
-* Raw file: 
+* [Raw file](https://github.com/christianvibar/mab2115_finals/blob/e4d17d9b8ad75c4c4c62889dfb211ce1f42447e9/data/raw/findex_microdata_2025_labelled.csv)
 
 **Key Features:**
 - 🌏 Over **120,000 respondents** across 120+ economies  
