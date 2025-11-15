@@ -6,14 +6,11 @@
 ---
 
 ## 📘 Overview  
-This repository contains an **exploratory data analysis (EDA)** of the **Global Findex Database**, a flagship World Bank survey measuring how adults around the world save, borrow, make payments, and manage risk.  
+The Philippines is experiencing a dramatic transformation in how its citizens manage money. This analysis investigates three fundamental dimensions of Filipino financial behavior—**spending, saving, and borrowing**—to understand how Filipinos interact with both traditional and digital financial systems.
 
-The project focuses on uncovering patterns and insights on **financial inclusion** through four behavioral dimensions:
+Drawing on a decade of data (2014-2024) from the **World Bank Global Findex Database**, we examine trends in digital payment adoption, the shift from traditional banks to mobile wallets, and the persistent reliance on informal credit networks across the ASEAN-6 region (Philippines, Indonesia, Malaysia, Singapore, Thailand, and Vietnam). By analyzing demographic patterns across income levels, educational attainment, and generational cohorts, this investigation reveals critical gaps in financial inclusion and offers insights into the structural barriers that prevent full digital adoption.
 
-1. **Financial Account Ownership**
-2. 💰 **Borrowing** – How do people access credit, and what are the formal vs. informal borrowing trends?  
-3. 🪙 **Saving** – How do individuals save, and for what purposes (e.g. old age)?  
-4. 💳 **Spending** – How are digital financial services (DFS) like mobile money and online payments transforming financial participation?  
+
 ---
 
 ## 📝 Analysis Notebook
