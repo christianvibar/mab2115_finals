@@ -1,8 +1,8 @@
-# Final project for MAB2115 (Computing for Analytics)
+# Final Project for MAB2115 (Computing for Analytics)
 
 -----
 # 🌍 Global Findex Exploratory Data Analysis  
-### *Understanding Borrowing, Saving, and Digital Financial Behavior in the ASEAN 5 and Singapore, with a deep dive into financial behavior in the Philippines*
+### *An Investigation Into Financial Inclusion in the Phillipines: Patterns, Gaps, and Opportunities*
 ---
 
 ## 📘 Overview  
